@@ -1,2 +1,2 @@
 # ASVH
-Analýza sestupných větví hydrogramu.
+Analysis of falling limbs od hydrographs.
