@@ -1,0 +1,21 @@
+The_settings_for_DE
+Number_of_Complexes: 3
+Number_of_Members_in_one_Complex: 5
+Number_of_generations_in_one_Complex: 50
+Max_number_of_SHUFFLING: 10
+Max_func_eval: 300000
+Standart_DE_parameters_F_CR_K: 0.94 0.9 0.85
+Converge_limit: -250.0
+Ensemble: 10
+Algorithm_selection: 6
+SCDE_selection_0-best1bin_1-rand1bin_2-randbest1bin_3-best2bin_4-rand2bin_5-currrand2bin_6-curbest2bin
+vg_SCDE_selection_7-best1bin_8-rand1bin_9-randbest1bin_10-best2bin_11-rand2bin_12-currrand2bin_13-curbest2bin
+vg_Parameters_vgA_vgR: 5 2
+Quantile_selection_INVEMPdisfunc-0: 0
+Constrains_O-noconstr_1-inside-bounds: 1
+Directory_for_output: ./data/outputs
+The_Resevoir_Type_0-kLR_1-TresLR_2-NR_3-EXP: 1
+The_number_of_Recessions: 3
+The_low_limits: 0 0 0 1
+The_upp_limits: 100 100 100 1000
+The_input_data_file: ./data/input/data.txt
